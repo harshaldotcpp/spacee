@@ -1,0 +1,1 @@
+cmake -DCMAKE_CXX_COMPILER=C:/MinGW/bin/c++.exe -DCMAKE_C_COMPILER=C:/MinGW/bin/gcc.exe -G "MinGW Makefiles" -S ./ -B ./build
